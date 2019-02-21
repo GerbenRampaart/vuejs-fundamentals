@@ -1,4 +1,5 @@
 # vuejs-fundamentals
+https://github.com/jmcooper/vuejs-fundamentals
 
 ## Project setup
 ```
